@@ -401,3 +401,12 @@ FodyWeavers.xsd
 
 .local
 **/.local
+
+.env
+.venv
+
+instructions.md
+instructions.txt
+
+data/*
+!data/README.md
